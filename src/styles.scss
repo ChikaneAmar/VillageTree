@@ -19,3 +19,10 @@
     border: none !important;
   }
   
+  .wrapFemaleChilds {
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-direction: column;
+  }

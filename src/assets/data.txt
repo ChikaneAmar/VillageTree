@@ -21,7 +21,7 @@ Id,Name,Gender,Relationship,Native,ParentId
 20,भागूबाई रावजी चिकणे,female,child,,16
 21,नारायण मारुती चिकणे,male,child,,13
 22,लक्ष्मण मारुती चिकणे,male,child,,13
-23,बापू मारुती चिकणे,female,child,,13
+23,बापू मारुती चिकणे,male,child,,13
 24,राधा मारुती चिकणे,female,child,,13
 25,गीता मारुती चिकणे,female,child,,13
 26,राहीबाई मारुती चिकणे,female,child,,13
@@ -44,7 +44,7 @@ Id,Name,Gender,Relationship,Native,ParentId
 43,ज्ञानदेव नामदेव चिकणे,male,child,,40
 44,कल्पना नामदेव चिकणे,female,child,,40
 45,जिजा नामदेव चिकणे,female,child,,40
-46,प्रवीण तुकाराम चिकाणे,male,child,,42
+46,प्रवीण तुकाराम चिकणे,male,child,,42
 47,आरती तुकाराम चिकणे,female,child,,42
 48,विठ्ठल लक्ष्मण चिकणे,male,child,,22
 49,राहीबाई लक्ष्मण चिकणे,female,child,,22

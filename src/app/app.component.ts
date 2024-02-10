@@ -97,13 +97,22 @@ export class AppComponent {
                             family6.children = new Array<Family>();
                             let childs7 = arrayTreeNodes.filter(data => data.parentId == childs6[f].id);
                             if (childs7.length > 0) {
-                              for (let g = 0; f < childs7.length; f++) { // Amar
+                              for (let g = 0; g < childs7.length; g++) { // Amar
                                 let family7 = new Family();
                                 family7.nodes.push(childs7[g]);
                                 family7.children = new Array<Family>();
                                 let childs8 = arrayTreeNodes.filter(data => data.parentId == childs7[g].id);
                                 if (childs8.length > 0) {
-
+                                  for (let h = 0; h < childs8.length; h++) { // Amar
+                                    let family8 = new Family();
+                                    family8.nodes.push(childs8[h]);
+                                    family8.children = new Array<Family>();
+                                    let childs9 = arrayTreeNodes.filter(data => data.parentId == childs8[h].id);
+                                    if (childs9.length > 0) {
+    
+                                    }
+                                    family7.children.push(family8);
+                                  }
                                 }
                                 family6.children.push(family7);
                               }

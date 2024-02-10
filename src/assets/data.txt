@@ -1,21 +1,124 @@
 Id,Name,Gender,Relationship,Native,ParentId
-1,Aarohi,female,child,,2
-2,Amar-Rutuja,male,child,,3
-3,Rajaram-Indubai,male,child,,4
-4,Haribhau-Tanhubai,male,child,,13
-5,Ramchandra-Kisabai,male,child,,4
-6,Sushila,female,child,,3
-7,Asha,female,child,,3
-8,Vaishali,female,child,,3
-9,Rekha,female,child,,5
-10,Tulshidas,male,child,,5
-11,Anibai,female,child,,4
-12,Fulabai,female,child,,4
-13,Maruti-Yamunabai,male,child,,14
-14,Balu,male,child,,15
-15,Anaji,male,child,,0
-16,Ravaji,male,child,,14
-17,Anaji,male,child,,16
-18,Balu,male,child,,16
-19,Baban,male,child,,17
-20,Genuba,male,child,,17
+1,आरोही अमर चिकणे,female,child,,2
+2,अमर राजाराम चिकणे,male,child,,3
+3,राजाराम हरिभाऊ चिकणे,male,child,,4
+4,हरिभाऊ मारुती चिकणे,male,child,,13
+5,रामचंद्र हरिभाऊ चिकणे,male,child,,4
+6,सुशीला राजाराम चिकणे,female,child,,3
+7,आशा राजाराम चिकणे,female,child,,3
+8,वैशाली राजाराम चिकणे,female,child,,3
+9,रेखा रामचंद्र चिकणे,female,child,,5
+10,तुळशीदास रामचंद्र चिकणे,male,child,,5
+11,आनंदीबाई हरिभाऊ चिकणे,female,child,,4
+12,फुलाबाई हरिभाऊ चिकणे,female,child,,4
+13,मारुती बाळू चिकणे,male,child,,14
+14,बाळू अनाजी चिकणे,male,child,,15
+15,अनाजी चिकणे,male,child,,0
+16,रावजी बाळू चिकणे,male,child,,14
+17,अनाजी रावजी चिकणे,male,child,,16
+18,बाळू रावजी चिकणे,male,child,,16
+19,गंगूबाई रावजी चिकणे,female,child,,16
+20,भागूबाई रावजी चिकणे,female,child,,16
+21,नारायण मारुती चिकणे,male,child,,13
+22,लक्ष्मण मारुती चिकणे,male,child,,13
+23,बापू मारुती चिकणे,female,child,,13
+24,राधा मारुती चिकणे,female,child,,13
+25,गीता मारुती चिकणे,female,child,,13
+26,राहीबाई मारुती चिकणे,female,child,,13
+27,गणपत नारायण चिकणे,male,child,,21
+28,नर्मदा नारायण चिकणे,female,child,,21
+29,शेवंता नारायण चिकणे,female,child,,21
+30,एकनाथ गणपत चिकणे,male,child,,27
+31,शंकर गणपत चिकणे,male,child,,27
+32,प्रियांका एकनाथ चिकणे,female,child,,30
+33,सुरेखा एकनाथ चिकणे,female,child,,30
+34,प्राप्ति एकनाथ चिकणे,female,child,,30
+35,गणेश एकनाथ चिकणे,male,child,,30
+36,रेश्मा शंकर चिकणे,female,child,,31
+37,सुरेश शंकर चिकणे,male,child,,31
+38,ज्ञानेश्वरी शंकर चिकणे,female,child,,31
+39,सीताबाई मारुती चिकणे,female,child,,13,
+40,नामदेव बापू चिकणे,male,child,,23
+41,तानूबाई बापू चिकणे,female,child,,23
+42,तुकाराम नामदेव चिकणे,male,child,,40
+43,ज्ञानदेव नामदेव चिकणे,male,child,,40
+44,कल्पना नामदेव चिकणे,female,child,,40
+45,जिजा नामदेव चिकणे,female,child,,40
+46,प्रवीण तुकाराम चिकाणे,male,child,,42
+47,आरती तुकाराम चिकणे,female,child,,42
+48,विठ्ठल लक्ष्मण चिकणे,male,child,,22
+49,राहीबाई लक्ष्मण चिकणे,female,child,,22
+50,गुणाबाई लक्ष्मण चिकणे,female,child,,22
+51,तानूबाई लक्ष्मण चिकणे,female,child,,22
+52,रंजना लक्ष्मण चिकणे,female,child,,22
+53,विमल लक्ष्मण चिकणे,female,child,,22
+54,किरण विठ्ठल चिकणे,female,child,,48
+55,अक्षय विठ्ठल चिकणे,male,child,,48
+56,सोनाली विठ्ठल चिकणे,female,child,,48
+57,बबन अनाजी चिकणे,male,child,,17
+58,गेनुबा अनाजी चिकणे,male,child,,17
+59,राव अनाजी चिकणे,male,child,,17
+60,मारुती अनाजी चिकणे,male,child,,17
+61,तुकाराम अनाजी चिकणे,male,child,,17
+62,मारुती बबन चिकणे,male,child,,57
+63,विठ्ठल बबन चिकणे,male,child,,57
+64,विष्णू बबन चिकणे,male,child,,57
+65,शांताबाई बबन चिकणे,female,child,,57
+66,शकुंतला बबन चिकणे,female,child,,57
+67,संगीता गेनुबा चिकणे,female,child,,58
+68,सविता गेनुबा चिकणे,male,child,,58
+69,अमित राव चिकणे,male,child,,59
+70,रोहित राव चिकणे,male,child,,59
+71,अनुज राव चिकणे,male,child,,59
+72,किसन मारुती चिकणे,male,child,,60
+73,सोपान तुकाराम चिकणे,male,child,,61
+74,अमृत तुकाराम चिकणे,male,child,,61
+75,प्रियांका मारुती चिकणे,female,child,,62
+76,किरण मारुती चिकणे,male,child,,62
+77,दिव्या विठ्ठल चिकणे,female,child,,63
+78,ज्योती विठ्ठल चिकणे,female,child,,63
+79,वेदांत विठ्ठल चिकणे,male,child,,63
+80,रौनक अमित चिकणे,male,child,,69
+81,आरती किसन चिकणे,female,child,,72
+82,जयेश किसन चिकणे,male,child,,72
+83,विकास किसन चिकणे,male,child,,72
+84,दीपक सोपान चिकणे,male,child,,73
+85,विनोद सोपान चिकणे,male,child,,73
+86,प्रमोद सोपान चिकणे,male,child,,73
+87,संकेत सोपान चिकणे,male,child,,73
+88,अंकिता अमृत चिकणे,female,child,,74
+89,नक्षत्रा अमृत चिकणे,female,child,,74
+90,साई अमृत चिकणे,male,child,,74
+91,सखाराम बाळू चिकणे,male,child,,18
+92,धोंडिबा बाळू चिकणे,male,child,,18
+93,मंदा सखाराम चिकणे,female,child,,91
+94,शंकर सखाराम चिकणे,male,child,,91
+95,अलका सखाराम चिकणे,female,child,,91
+96,सुवर्णा सखाराम चिकणे,female,child,,91
+97,रामचंद्र धोंडिबा चिकणे,male,child,,92
+98,विजय धोंडिबा चिकणे,male,child,,92
+99,वंदना धोंडिबा चिकणे,female,child,,92
+100,स्वरा विनोद चिकणे,female,child,,85
+101,कृष्णाबाई मारुती चिकणे,female,child,,13
+102,हरिभाऊ नारायण मांढरे,male,child,,19
+103,लक्ष्मण नारायण मांढरे,male,child,,19
+104,शिवाजी हरिभाऊ मांढरे,male,child,,102
+105,atya हरिभाऊ मांढरे,female,child,,102
+106,atya हरिभाऊ मांढरे,female,child,,102
+107,चंद्रकांत लक्ष्मण मांढरे,male,child,,103
+108,शंकर लक्ष्मण मांढरे,male,child,,103
+109,सुषमा शिवाजी मांढरे,female,child,,104
+110,सचिन शिवाजी मांढरे,male,child,,104
+111,निलेश शिवाजी मांढरे,male,child,,104
+112,आशा चद्रकांत मांढरे,female,child,,107
+113,उषा चद्रकांत मांढरे,female,child,,107
+114,विजय चंद्रकांत मांढरे,male,child,,107
+115,वैशाली शंकर मांढरे,female,child,,108
+116,दीपाली शंकर मांढरे,female,child,,108
+117,निलम शंकर मांढरे,female,child,,108
+118,तेजस शंकर मांढरे,male,child,,108
+119,आद्या सचिन मांढरे,female,child,,110
+119,रियांश सचिन मांढरे,male,child,,110
+119,शिवन्या निलेश मांढरे,female,child,,111
+119,अद्वैत निलेश मांढरे,male,child,,111
+

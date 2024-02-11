@@ -279,14 +279,16 @@ export class AppComponent {
   }
 
   Screen() {
-    const contentToConvert = this.contentToConvert.nativeElement;
-    html2canvas(this.contentToConvert.nativeElement, { scale: 3 }).then((canvas) => {
+    //this.contentToConvert = this.contentToConvert.nativeElement;
+    var element = document.getElementById('contentToConvert') as HTMLElement;
+    let data = element.innerHTML;
+    html2canvas(element, { scale: 3 }).then((canvas) => {
       const imageGeneratedFromTemplate = canvas.toDataURL('image/png');
       const fileWidth = 200;
       const generatedImageHeight = (canvas.height * fileWidth) / canvas.width;
       let PDF = new jspdf();
       PDF.addImage(imageGeneratedFromTemplate, 'PNG', 0, 5, fileWidth, generatedImageHeight,);
-      PDF.html(this.contentToConvert.nativeElement.innerHTML)
+      PDF.html(element.innerHTML)
       PDF.save('angular-invoice-pdf-demo.pdf');
     });
   }
